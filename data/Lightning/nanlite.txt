@@ -1,0 +1,5 @@
+Ninetlite S300D LED Studio Light|3500000|1  
+Ninetlite S200D LED Studio Light|2500000|2  
+Ninetlite SL-100 Bi-Color LED Light|2000000|3  
+Ninetlite L-600D Daylight LED Light|4000000|4  
+Ninetlite P-300B LED Panel|3000000|5  

@@ -1,0 +1,5 @@
+Shure SM7B Vocal Dynamic Microphone|400000|1  
+Audio-Technica AT2020 Cardioid Condenser Microphone|150000|2  
+Blue Yeti USB Microphone|130000|3  
+Rode NT1-A Condenser Microphone|250000|4  
+Samson G-Track Pro USB Microphone|160000|5 

@@ -1,0 +1,5 @@
+Sony FE 24-70mm f/2.8 GM Lens|3200000|1  
+Sony FE 85mm f/1.4 GM Lens|2500000|2  
+Sony FE 16-35mm f/2.8 GM Lens|2800000|3  
+Sony FE 70-200mm f/2.8 GM OSS Lens|3500000|4  
+Sony FE 50mm f/1.2 GM Lens|3100000|5  

@@ -1,0 +1,5 @@
+Godox SL60W LED Video Light|2000000|1  
+Godox VL150 LED Video Light|3500000|2  
+Godox SZ150R RGB Bi-Color LED Zoom Light|5000000|3  
+Godox ML60 Bi-Color LED Light|2500000|4  
+Godox FV150 High-Speed Sync Flash LED Light|4000000|5  

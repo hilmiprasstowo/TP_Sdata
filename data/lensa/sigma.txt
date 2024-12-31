@@ -1,0 +1,5 @@
+Sigma 35mm f/1.4 DG HSM Art Lens (Canon EF Mount)|1500000|1  
+Sigma 24-70mm f/2.8 DG OS HSM Art Lens (Nikon F Mount)|2000000|2  
+Sigma 85mm f/1.4 DG DN Art Lens (Sony E Mount)|1800000|3  
+Sigma 18-35mm f/1.8 DC HSM Art Lens (Canon EF-S Mount)|1200000|4  
+Sigma 70-200mm f/2.8 DG OS HSM Sports Lens (Nikon F Mount)|2500000|5  
